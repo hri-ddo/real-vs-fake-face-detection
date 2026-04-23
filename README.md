@@ -31,7 +31,7 @@ If you want to run the Gradio web interface on your own machine:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/hri-ddo/real-vs-fake-face-detection.git](https://github.com/hri-ddo/real-vs-fake-face-detection.git)
+git clone https://github.com/hri-ddo/real-vs-fake-face-detection.git
 cd real-vs-fake-face-detection
 ```
 
