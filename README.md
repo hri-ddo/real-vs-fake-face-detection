@@ -6,7 +6,7 @@ The model is deployed with a user-friendly web interface using **Gradio** and is
 
 ## 🚀 Live Demo
 You can test the model directly in your browser without installing anything!
-* **https://huggingface.co/spaces/Hriddo/LookSee_AI** *
+* **https://huggingface.co/spaces/Hriddo/LookSee_AI** 
 ## 📊 Dataset
 The model was trained on the **140k Real and Fake Faces** dataset from Kaggle. 
 * **Training Set:** 100,000 images (50,000 Real, 50,000 Fake)
